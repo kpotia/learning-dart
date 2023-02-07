@@ -1,0 +1,5 @@
+name: deyPlay
+environment:
+  sdk: '^2.12.0'
+dependencies:
+  characters: ^1.1.0
